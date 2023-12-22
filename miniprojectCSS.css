@@ -1,0 +1,57 @@
+*{
+    margin:15px;
+    padding: 0px;
+}
+
+h2{
+    color: rgb(245, 145, 24);
+    font-size: 50px;
+}
+h5{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.sub-head{
+    font-size: 100px;
+    font-weight: bold;
+}
+
+
+
+.content{
+    margin: 0px;
+    height: 35vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.inner-content{
+    margin: 0px;
+    width:50%;
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.img-content1{
+    /* height: 250px; */
+    width: 100%;
+    background-image: url("duck-8445696_640.webp");
+    background-size: cover;
+}
+.img-content2{
+    /* height: 200px; */
+    width: 100%;
+    background-image: url("trees-8451481_960_720.jpg");
+    background-size: cover;
+}
+
+.lastpart{
+    text-align: end;
+    font-size: 20px;
+
+}
